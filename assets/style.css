@@ -1,0 +1,67 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color:aliceblue;
+    margin-bottom: 100px;   
+}
+.top{
+    width:1200px;
+    background-color: antiquewhite;
+    padding-top: 1px;
+    text-align: center;
+    margin-left:210px;
+    display:inline-block;
+    width: 1020px;
+    margin-top:30px;
+}
+.container{
+      margin-left:30px;
+}
+.profile{
+    margin-top: 1px;
+    border-radius: 50%;
+    height:150px;
+    margin-left: 40px;
+}
+.p1{
+    margin-top: 20px;
+    margin-left: 60px;
+    color:black;
+    font-weight: bold;
+}
+.details{
+    margin-left: 20px; 
+}
+.details h4{
+    font-weight: lighter; 
+   line-height: 23px;
+    
+}
+.logo1,.logo2{
+    height: 15px;
+    margin-top: 1px;
+}
+.education,.Skills,.language,.interest{
+    margin-left:25px;  
+}
+.Skills,.language{
+    line-height: 25px;
+}
+.box{
+    margin-left:200px;
+    display: inline-block;
+}
+.objective,.certification,.qualities{
+    line-height: 23px;
+}
+.project{
+    line-height: 23px;
+    
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+   color:orange;
+}
